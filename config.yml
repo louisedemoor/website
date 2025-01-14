@@ -51,7 +51,9 @@ params:
           enabled: true
           title: Louise Demoor
           subtitle: "Welcome! I am a PhD student in economics at CREST, working under the supervision of Professor [<u>Julien Combe</u>](https://sites.google.com/site/combeju/home).
-           <br>  <br> My research area is [<u>market design</u>](https://en.wikipedia.org/wiki/Market_design). I am particularly interested in improving allocation systems by relaxing the traditional assumption that agents participate in these mechanisms in a fixed and exogenous way, and by identifying the factors that influence agents’ decisions to participate. Currently, I am primarily working on the topic of kidney exchange, but I also aim to explore other areas such as student assignment in schools. "
+           <br>  <br> My research area is [<u>market design</u>](https://en.wikipedia.org/wiki/Market_design). I am particularly interested in improving allocation systems by relaxing 
+           the traditional assumption that agents participate in these mechanisms in a fixed and exogenous way, and by identifying the factors that influence agents’ decisions to participate. 
+           Currently, I am primarily working on the topic of kidney exchange, but I also aim to explore other areas such as student assignment in schools. "
           imageUrl: "picture.jpeg"
           imageWidth: 200
           imageHeight: 300
