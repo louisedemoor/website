@@ -24,7 +24,7 @@ menu:
           weight: 4 
 
 params:
-    description: ""
+    description: "I am a first year Ph.D. student in Economics at CREST."
     author: Louise Demoor
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -50,8 +50,9 @@ params:
     profileMode:
           enabled: true
           title: Louise Demoor
-          subtitle: ""
-          imageUrl: "picture.jpeg"
+          subtitle: "Welcome! I am a PhD student in economics at CREST, working under the supervision of Professor [<u>Julien Combe</u>](https://sites.google.com/site/combeju/home).
+           <br>  <br> My research area is market design. I am particularly interested in improving allocation systems by relaxing the traditional assumption that agents participate in these mechanisms in a fixed and exogenous way, and by identifying the factors that influence agents’ decisions to participate. Currently, I am primarily working on the topic of kidney exchange, but I also aim to explore other areas such as student assignment in schools. "
+          imageUrl: "photo_louise.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -70,15 +71,13 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: Academic_Resume.pdf
         - name: Email
           url: mailto:louise.demoor@ensae.fr
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: 
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/louisedemoor
 
 
     assets:
@@ -87,7 +86,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "TEST"
+      text: "Louise Demoor"
       icon: favicon.ico
       iconHeight: 18
 
