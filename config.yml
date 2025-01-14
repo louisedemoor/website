@@ -56,7 +56,7 @@ params:
            Currently, I am primarily working on the topic of kidney exchange, but I also aim to explore other areas such as student assignment in schools. "
           imageUrl: "picture.jpeg"
           imageWidth: 200
-          imageHeight: 300
+          imageHeight: 200
           buttons:
             - name: Research
               url: papers/
