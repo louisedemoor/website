@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Your Inner Hedgehog" 
 date: 2021-04-06
 lastmod: 2024-10-18
@@ -51,3 +51,4 @@ pages = {1299--1302}}
 ##### Related material
 
 + [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog)
+ -->

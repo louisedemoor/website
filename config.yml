@@ -10,17 +10,17 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Research
+          url: /papers/
+          weight: 1 
+        - name: Resume
+          url: cv/
           weight: 2
-        - name: Courses
+        - name: Teaching
           url: courses/
           weight: 3
-        - name: Data
-          url: data/
+        - name: News
+          url: news/
           weight: 4 
 
 params:
@@ -39,7 +39,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    #MainSections: ["books","courses","papers","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -53,19 +53,19 @@ params:
           subtitle: "Welcome! I am a PhD student in economics at CREST, working under the supervision of Professor [<u>Julien Combe</u>](https://sites.google.com/site/combeju/home).
            <br>  <br> My research area is [<u>market design</u>] (https://en.wikipedia.org/wiki/Market_design). I am particularly interested in improving allocation systems by relaxing the traditional assumption that agents participate in these mechanisms in a fixed and exogenous way, and by identifying the factors that influence agents’ decisions to participate. Currently, I am primarily working on the topic of kidney exchange, but I also aim to explore other areas such as student assignment in schools. "
           imageUrl: "/photo_louise.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 200
+          imageHeight: 300
           buttons:
-            - name: Papers
+            - name: Research
               url: papers/
             - name: Courses
               url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
+            - name:  Resume
+              url: cv/
+            - name : Teaching
+              url: courses/
+            - name: News
+              url: news/
            # - name: Archive
             #  url: archive/
 
@@ -76,6 +76,8 @@ params:
           url: mailto:louise.demoor@ensae.fr
         - name: Google Scholar
           url: 
+        - name: Location
+          url: location/
         - name: GitHub
           url: https://github.com/louisedemoor
 
@@ -96,7 +98,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: monokai 
+        style: autumn 
     tableOfContents:
         endLevel: 2
         ordered: false

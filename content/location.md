@@ -2,7 +2,7 @@
 title: "Location"
 date: 2024-05-08
 hidemeta: true
-description: "Professor Dr von Igelfeld's mailing and office addresses at the Institute of Romance Philology."
+description: "Louise Demoor's mailing and office addresses at CREST."
 
 ---
 
@@ -10,18 +10,16 @@ description: "Professor Dr von Igelfeld's mailing and office addresses at the In
 
 #### Mailing address
 
-Professor Dr von Igelfeld  
-Institute of Romance Philology  
-University of Regensburg  
-Regensburg, Germany
+Louise Demoor 
+CREST
+Palaiseau, France
 
 ---
 
 #### Office address
 
 Room 133  
-Institute of Romance Philology  
-University of Regensburg
+CREST
 
 ---
 
