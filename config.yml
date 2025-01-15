@@ -96,7 +96,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Louise Demoor"
-      icon: favicon.ico
+      icon: img/favicon.ico
       iconHeight: 18
 
 markup:
