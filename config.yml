@@ -90,7 +90,7 @@ params:
         favicon16x16: "img/favicon-16x16.png"
         favicon32x32: "img/favicon-32x32.png"
         apple_touch_icon: "img/apple-touch-icon.png"
-        #mask_icon: "img/favicon.png"
+        mask_icon: "img/favicon_safari.png"
     cover:
         hiddenInList: false
         hiddenInSingle: true
