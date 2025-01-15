@@ -84,6 +84,7 @@
 <link rel="apple-touch-icon" href="{{ site.Params.assets.apple_touch_icon | default "apple-touch-icon.png" | absURL }}">
 <meta name="theme-color" content="{{ site.Params.assets.theme_color | default "#2e2e33" }}">
 <meta name="msapplication-TileColor" content="{{ site.Params.assets.msapplication_TileColor | default "#2e2e33" }}">
+<link rel="mask-icon" href="{{ site.Params.assets.favicon| default "favicon.png" | absURL }}" color="#000000" type="image/png">
 
 {{- /* RSS */}}
 {{ range .AlternativeOutputFormats -}}
