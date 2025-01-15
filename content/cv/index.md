@@ -1,5 +1,5 @@
 ---
-title: "CURRICULUM VITAE"
+title: "Resume"
 hidemeta: true
 description: ""
 ---

@@ -75,8 +75,8 @@ params:
           url: Academic_Resume.pdf
         - name: Email
           url: mailto:louise.demoor@ensae.fr
-        - name: Google Scholar
-          url: 
+       - name: orcid
+          url: https://orcid.org/0009-0008-3305-3375
         - name: Location
           url: location/
         - name: GitHub
@@ -84,7 +84,13 @@ params:
 
 
     assets:
+         disableHLJS: true
         disableScrollBarStyle: true
+        favicon: "/favicon.ico"
+        favicon16x16: "/favicon-16x16.png"
+        favicon32x32: "/favicon-32x32.png"
+        apple_touch_icon: "/apple-touch-icon.png"
+        mask_icon: "/favicon.png"
     cover:
         hiddenInList: false
         hiddenInSingle: true
