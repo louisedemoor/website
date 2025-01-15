@@ -75,7 +75,7 @@ params:
           url: Academic_Resume.pdf
         - name: Email
           url: mailto:louise.demoor@ensae.fr
-      - name: orcid
+        - name: orcid
           url: https://orcid.org/0009-0008-3305-3375
         - name: Location
           url: location/
