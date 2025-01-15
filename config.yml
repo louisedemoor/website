@@ -2,6 +2,7 @@ baseURL: "https://louisedemoor.github.io"
 title: Louise Demoor
 theme: PaperMod
 
+
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
@@ -55,8 +56,8 @@ params:
            the traditional assumption that agents participate in these mechanisms in a fixed and exogenous way, and by identifying the factors that influence agents’ decisions to participate. 
            Currently, I am primarily working on the topic of kidney exchange, but I also aim to explore other areas such as student assignment in schools. "
           imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 180
+          imageHeight: 180
           buttons:
             - name: Research
               url: papers/

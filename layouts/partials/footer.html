@@ -4,17 +4,10 @@
     {{- if site.Copyright }}
     <span>{{ site.Copyright | markdownify }}</span>
     {{- else }}
-    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+    &copy; {{ now.Year }} {{ site.Title }}
     {{- end }}
-    {{- print " · "}}
-    {{- end }}
-
-    {{- with site.Params.footer.text }}
-    {{ . | markdownify }}
-    {{- print " · "}}
-    {{- end }}    
     <span>
-    Powered by 
+    &middot;  <a href="mailto:louise.demoor@ensae.fr">Contact by email</a> &middot; Powered by 
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
         <a href="https://github.com/pmichaillat/hugo-website/" rel="noopener" target="_blank">a modified version</a>
          of 
