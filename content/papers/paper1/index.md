@@ -1,5 +1,5 @@
 ---
-title: "Unusual Uses For Olive Oil" 
+title: "Incentivizing Participation of Compatible Pairs in Kidney Exchange Programs" 
 date: 2025-01-14
 lastmod: 2025-01-14
 #tags: ["compatible pairs","empiric","history of oil","Mediterranean world"]
@@ -8,7 +8,7 @@ description: "This paper examines the effects of incentivizing compatible pairs 
 summary: "This paper examines the effects of incentivizing compatible pairs to participate in kidney exchange programs, highlighting benefits for both compatible and incompatible pairs. " 
 cover:
     #image: ""
-    alt: "Some Uses For Olive Oil"
+    alt: "Incentivizing Participation of Compatible Pairs in Kidney Exchange Programs"
     relative: false
 editPost:
     URL: "https://github.com/louisedemoor.github.io/hugo-website"
