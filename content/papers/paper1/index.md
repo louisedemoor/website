@@ -11,7 +11,7 @@ cover:
     alt: "Incentivizing Participation of Compatible Pairs in Kidney Exchange Programs"
     relative: false
 editPost:
-    URL: "https://github.com/louisedemoor.github.io/hugo-website"
+    #URL: "https://github.com/louisedemoor.github.io/hugo-website"
     Text: "Submitted to Journal of Health Economics."
 
 ---
@@ -26,7 +26,7 @@ editPost:
 
 ##### Abstract
 
-We simulate the impact of compatible pairs participating in a medium-sized kidney exchange program, where they engage in donor swaps only when recipients can obtain a kidney with a higher expected graft survival rate. Our results show that compati- ble pairs can indeed benefit from participation, and their involvement significantly in- creases the likelihood of finding matches for incompatible pairs, with a particularly pro- nounced effect for pairs that face the greatest challenges in finding compatible matches. This positive outcome is primarily driven by a shift in the pool’s composition rather than an increase in its size. Moreover, we identify which compatible pairs, based on their observable characteristics, benefit the most from participating in the program.
+We simulate the impact of compatible pairs participating in a medium-sized kidney exchange program, where they engage in donor swaps only when recipients can obtain a kidney with a higher expected graft survival rate. Our results show that compatible pairs can indeed benefit from participation, and their involvement significantly increases the likelihood of finding matches for incompatible pairs, with a particularly pronounced effect for pairs that face the greatest challenges in finding compatible matches. This positive outcome is primarily driven by a shift in the pool’s composition rather than an increase in its size. Moreover, we identify which compatible pairs, based on their observable characteristics, benefit the most from participating in the program.
 
 
 
