@@ -16,5 +16,5 @@ description: ""
 ##### SKILLS
 + Programming Language: R, Python, Latex.
 + Tools: Git/GitHub, Microsoft Office Suite, Pycharm, RStudio, VSCode.
-+ Languages: French (native), English (Fluent), Spanish (beginner).
++ Languages: French (Native), English (Fluent), Spanish (Beginner).
   
