@@ -11,7 +11,7 @@ cover:
     alt: "Incentivizing Participation of Compatible Pairs in Kidney Exchange Programs"
     relative: false
 editPost:
-    URL: "https://github.com/louisedemoor.github.io/hugo-website"
+    URL: "https://jheor.org"
     Text: "Submitted to Journal of Health Economics."
 
 ---

@@ -14,5 +14,3 @@ description: "Teaching experience."
   - Tutorials in microeconomics for students in their last year of BSc in economics.
 Semesters: Winter 2024.
 Instructors: Sylvie Lambert.
-- **ENSAE**
-  - TBA
