@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Papers on Louise Demoor</title>
-    <link>https://louisedemoor.github.io/hugo-website/papers/</link>
+    <link>https://louisedemoor.github.io/website/papers/</link>
     <description>Recent content in Papers on Louise Demoor</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://louisedemoor.github.io/hugo-website/papers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://louisedemoor.github.io/website/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Incentivizing Participation of Compatible Pairs in Kidney Exchange Programs</title>
-      <link>https://louisedemoor.github.io/hugo-website/papers/paper1/</link>
+      <link>https://louisedemoor.github.io/website/papers/paper1/</link>
       <pubDate>15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://louisedemoor.github.io/hugo-website/papers/paper1/</guid>
+      <guid>https://louisedemoor.github.io/website/papers/paper1/</guid>
       <description>This paper examines the effects of incentivizing compatible pairs to participate in kidney exchange programs.</description>
     </item>
 
