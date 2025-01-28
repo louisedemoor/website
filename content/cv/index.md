@@ -5,12 +5,12 @@ description: ""
 ---
 + [Download CV](/hugo-website/Academic_Resume.pdf)
 ##### EDUCATION
-+ Ph.D., Economics, CREST, 2028 (Expected)
-  *Market design.*
-+ M.S., Economics, ENSAE Ecole Polytechnique, 2023
-  *Specialized in  market design, game theory and econometrics.*  
-+ Diplôme d’Ingénieur, ENSAE PARIS, 2023
-*Graduated with a Master’s in Data Science for Social Sciences, specializing in applied statistics and econometrics*
++ Ph.D., Economics, CREST, 2028 (Expected)  
+  *Specializing in market design.*  
++ Master’s in Economics, ENSAE École Polytechnique, 2023  
+  *Focused on market design, game theory, and econometrics.*  
++ Diplôme d’Ingénieur, ENSAE Paris, 2023  
+  *Master’s in Data Science for Social Sciences, with a specialization in applied statistics and econometrics.*  
 
 
 ##### SKILLS
