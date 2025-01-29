@@ -10,10 +10,10 @@ description: "Louise Demoor's mailing and office addresses at CREST."
 
 #### Mailing address
 
-Louise Demoor 
-PSE
-48 Bd Jourdan, 75014 Paris
-Paris, France
+Louise Demoor   
+PSE  
+48 Bd Jourdan, 75014   
+Paris, France  
 
 ---
 
