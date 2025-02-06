@@ -21,6 +21,7 @@ editPost:
 ##### Download
 
 + [Paper](paper1.pdf)
++ [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5105167)
 
 ---
 
