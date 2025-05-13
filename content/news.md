@@ -1,5 +1,5 @@
 ---
-title: "News 📣"
+title: "News"
 aliases:
     - /contact.html
 hidemeta: true
