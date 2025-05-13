@@ -12,7 +12,7 @@ cover:
     relative: false
 editPost:
     URL: "https://jheor.org"
-    Text: "Submitted to Journal of Health Economics."
+    Text: ""
 
 ---
 
