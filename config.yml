@@ -52,9 +52,15 @@ params:
     profileMode:
           enabled: true
           title: Louise Demoor
-          subtitle: "Welcome! I am a PhD student in Economics at [<u>CREST</u>](https://crest.science) ([<u>Ecole Polytechnique</u>](https://www.polytechnique.edu)), advised by [<u>Julien Combe</u>](https://sites.google.com/site/combeju/home).
-           <br>  <br> My research area is [<u>market design</u>](https://en.wikipedia.org/wiki/Market_design) (primarily theoretical). 
-           Currently, my main work is on kidney exchange and teacher assignment in schools with distributional constraints. "
+          subtitle: "Welcome! I am a PhD student in Economics at [CREST](https://crest.science)
+([École Polytechnique](https://www.polytechnique.edu)), advised by
+[Julien Combe](https://sites.google.com/site/combeju/home).
+
+<br><br>
+
+My research area is [market design](https://en.wikipedia.org/wiki/Market_design)
+(primarily theoretical). Currently, my main work is on kidney exchange and
+teacher assignment in schools with distributional constraints. "
            #I am particularly interested in improving allocation systems by relaxing 
            #the traditional assumption that agents participate in these mechanisms in a fixed and exogenous way, and by identifying the factors that influence agents’ decisions to participate. 
 
