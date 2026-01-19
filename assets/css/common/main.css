@@ -75,11 +75,8 @@ pre:hover .copy-code {
     display: block;
 }
 
-/* Link styling */
-.main a {
-    text-decoration: underline;
-}
 
-.main a:hover {
-    text-decoration: underline;
+/* Local link color for intro text */
+.intro-text a {
+    color: var(--lightcolor);
 }
