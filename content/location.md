@@ -1,6 +1,6 @@
 ---
 title: "Location"
-date: 2024-05-08
+date: 2026-19-01
 hidemeta: true
 description: "Louise Demoor's mailing and office addresses at CREST."
 
@@ -11,16 +11,16 @@ description: "Louise Demoor's mailing and office addresses at CREST."
 #### Mailing address
 
 Louise Demoor   
-PSE  
-48 Bd Jourdan, 75014   
-Paris, France  
+CREST  
+5 Av. Le Chatelier, 91120    
+Palaiseau, France  
 
 ---
 
 #### Office address
 
-Room R4-66  
-PSE
+Room 4061  
+CREST
 
 ---
 
