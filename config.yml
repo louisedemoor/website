@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Louise Demoor
-          subtitle: "Welcome! I am a PhD student in Economics at [CREST](https://crest.science) 
+          subtitle: "Welcome! I am a PhD student in Economics at [<span style="color:lightcolor;">CREST</span>](https://crest.science) 
 ([École Polytechnique](https://www.polytechnique.edu)), advised by 
 [Julien Combe](https://sites.google.com/site/combeju/home).
 
