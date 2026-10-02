@@ -75,3 +75,14 @@ pre:hover .copy-code {
     display: block;
 }
 
+
+.papers-section {
+    font-size: var(--h1size);
+    margin: 40px 0 var(--content-gap);
+    padding-bottom: 6px;
+    border-bottom: 2px solid var(--lightcolor);
+}
+
+.post-entry.no-link:hover {
+    border: 2px solid var(--border);
+}

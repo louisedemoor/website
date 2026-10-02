@@ -1,0 +1,36 @@
+{{- define "main" }}
+
+{{- if .Content }}
+<div class="post-content">{{ .Content }}</div>
+{{- end }}
+
+{{- /* Papers are grouped by the "category" field in their front matter.
+       A group heading only appears when it contains at least one paper. */}}
+{{- range slice "Publications" "Working papers" }}
+{{- $pages := where $.RegularPages "Params.category" . }}
+{{- if $pages }}
+<h2 class="papers-section">{{ . }}</h2>
+{{- range $pages }}
+<article class="post-entry{{ if not .Permalink }} no-link{{ end }}">
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">{{- .Title }}</h2>
+  </header>
+  {{- if (ne (.Param "hideSummary") true) }}
+  <div class="entry-content">
+    <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+  </div>
+  {{- end }}
+  {{- if not (.Param "hideMeta") }}
+  <footer class="entry-footer">
+    {{- partial "post_meta.html" . -}}
+  </footer>
+  {{- end }}
+  {{- if .Permalink }}
+  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+  {{- end }}
+</article>
+{{- end }}
+{{- end }}
+{{- end }}
+
+{{- end }}{{- /* end main */ -}}
