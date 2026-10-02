@@ -2,52 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Louise Demoor</title>
-    <link>http://localhost:1414/</link>
+    <link>http://localhost:1415/</link>
     <description>Recent content on Louise Demoor</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1414/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1415/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Incentivizing Participation of Compatible Pairs in Kidney Exchange Programs</title>
+      <link>http://localhost:1415/papers/paper1/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1415/papers/paper1/</guid>
+      <description>This paper examines the effects of incentivizing compatible pairs to participate in kidney exchange programs. Submitted to Journal of Health Economics, 2025.</description>
+    </item>
     <item>
       <title>Non-obvious Manipulability with Groups in Shapley-Scarf Housing Markets</title>
-      <link>http://localhost:1414/papers/paper2/</link>
+      <link>http://localhost:1415/papers/paper2/</link>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1414/papers/paper2/</guid>
+      <guid>http://localhost:1415/papers/paper2/</guid>
       <description>This paper introduce NOM with groups, an incentive condition between strategy-proofness and non-obvious manipulability in which agents know only their own group&amp;#39;s preferences, and characterize the housing-market mechanisms that satisfy it via a new family of TTC variants.</description>
     </item>
     <item>
       <title>Location</title>
-      <link>http://localhost:1414/location/</link>
+      <link>http://localhost:1415/location/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1414/location/</guid>
+      <guid>http://localhost:1415/location/</guid>
       <description>Louise Demoor&amp;#39;s mailing and office addresses at CREST.</description>
     </item>
     <item>
-      <title>Paper 3 title</title>
-      <link></link>
-      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
-      <guid></guid>
-      <description>Short summary of paper 3 shown on the papers page.</description>
-    </item>
-    <item>
-      <title>Incentivizing Participation of Compatible Pairs in Kidney Exchange Programs</title>
-      <link>http://localhost:1414/papers/paper1/</link>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1414/papers/paper1/</guid>
-      <description>This paper examines the effects of incentivizing compatible pairs to participate in kidney exchange programs. Submitted to Journal of Health Economics, 2025.</description>
-    </item>
-    <item>
       <title>News</title>
-      <link>http://localhost:1414/news/</link>
+      <link>http://localhost:1415/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1414/news/</guid>
+      <guid>http://localhost:1415/news/</guid>
       <description>News</description>
     </item>
     <item>
       <title>Resume</title>
-      <link>http://localhost:1414/cv/</link>
+      <link>http://localhost:1415/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1414/cv/</guid>
+      <guid>http://localhost:1415/cv/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;../Academic_Resume.pdf&#34;&gt;Download CV&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -69,9 +62,9 @@
     </item>
     <item>
       <title>Teaching</title>
-      <link>http://localhost:1414/courses/</link>
+      <link>http://localhost:1415/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1414/courses/</guid>
+      <guid>http://localhost:1415/courses/</guid>
       <description>Teaching experience.</description>
     </item>
   </channel>

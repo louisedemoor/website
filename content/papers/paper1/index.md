@@ -2,6 +2,7 @@
 title: "Incentivizing Participation of Compatible Pairs in Kidney Exchange Programs" 
 date: 2025-01-14
 category: "Working papers"
+weight: 1
 lastmod: 2025-01-14
 #tags: ["compatible pairs","empiric","history of oil","Mediterranean world"]
 author: ["Antonio Nicolo", "Louise Demoor", "Radu Mincu", "Maria Plaktieva", "Caterina di Bella", "Lucrezia Furian"]

@@ -2,6 +2,7 @@
 title: "Non-obvious Manipulability with Groups in Shapley-Scarf Housing Markets"
 date: 2026-08-16
 category: "Working papers"
+weight: 2
 lastmod: 2026-08-16
 author: ["Louise Demoor", "Martí Jané-Ballarín", "Pierre Nunn", "Subhajit Pramanik", "Antoine Prévotat", "Makoto Yokoo"]
 description: "This paper introduce NOM with groups, an incentive condition between strategy-proofness and non-obvious manipulability in which agents know only their own group's preferences, and characterize the housing-market mechanisms that satisfy it via a new family of TTC variants."
