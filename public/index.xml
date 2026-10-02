@@ -2,74 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Louise Demoor</title>
-    <link>https://louisedemoor.github.io/website/</link>
+    <link>http://localhost:1414/</link>
     <description>Recent content on Louise Demoor</description>
-    <generator>Hugo -- 0.139.0</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://louisedemoor.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1414/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Non-obvious Manipulability with Groups in Shapley-Scarf Housing Markets</title>
+      <link>http://localhost:1414/papers/paper2/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1414/papers/paper2/</guid>
+      <description>This paper introduce NOM with groups, an incentive condition between strategy-proofness and non-obvious manipulability in which agents know only their own group&amp;#39;s preferences, and characterize the housing-market mechanisms that satisfy it via a new family of TTC variants.</description>
+    </item>
     <item>
       <title>Location</title>
-      <link>https://louisedemoor.github.io/website/location/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://louisedemoor.github.io/website/location/</guid>
-      <description>Mailing and office addresses.</description>
+      <link>http://localhost:1414/location/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1414/location/</guid>
+      <description>Louise Demoor&amp;#39;s mailing and office addresses at CREST.</description>
     </item>
     <item>
-      <title>Office Hours</title>
-      <link>https://louisedemoor.github.io/website/officehours/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://louisedemoor.github.io/website/officehours/</guid>
-      <description>Schedule and location. &amp;#39;s office hours.</description>
+      <title>Paper 3 title</title>
+      <link></link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>Short summary of paper 3 shown on the papers page.</description>
     </item>
     <item>
-      <title>Your Inner Hedgehog</title>
-      <link>https://louisedemoor.github.io/website/papers/paper3/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://louisedemoor.github.io/website/papers/paper3/</guid>
-      <description>This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021.</description>
+      <title>Incentivizing Participation of Compatible Pairs in Kidney Exchange Programs</title>
+      <link>http://localhost:1414/papers/paper1/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1414/papers/paper1/</guid>
+      <description>This paper examines the effects of incentivizing compatible pairs to participate in kidney exchange programs. Submitted to Journal of Health Economics, 2025.</description>
     </item>
     <item>
-      <title>List of Irregular Verbs Across Romance Languages</title>
-      <link>https://louisedemoor.github.io/website/data/data1/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://louisedemoor.github.io/website/data/data1/</guid>
-      <description>This dataset contains all irregular verbs in known Romance languages.</description>
+      <title>News</title>
+      <link>http://localhost:1414/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1414/news/</guid>
+      <description>News</description>
     </item>
     <item>
-      <title>Unusual Uses For Olive Oil</title>
-      <link>https://louisedemoor.github.io/website/papers/paper1/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://louisedemoor.github.io/website/papers/paper1/</guid>
-      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
+      <title>Resume</title>
+      <link>http://localhost:1414/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1414/cv/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../Academic_Resume.pdf&#34;&gt;Download CV&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;education&#34;&gt;EDUCATION&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Ph.D., Economics, CREST, 2028 (Expected)&lt;br&gt;
+&lt;em&gt;Specializing in market design.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Master’s in Economics, ENSAE École Polytechnique, 2023&lt;br&gt;
+&lt;em&gt;Focused on market design, game theory, and econometrics.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Diplôme d’Ingénieur, ENSAE Paris, 2023&lt;br&gt;
+&lt;em&gt;Master’s in Data Science for Social Sciences, with a specialization in applied statistics and econometrics.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;skills&#34;&gt;SKILLS&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Language: R, Python, Latex.&lt;/li&gt;
+&lt;li&gt;Tools: Git/GitHub, Microsoft Office Suite, Pycharm, RStudio, VSCode.&lt;/li&gt;
+&lt;li&gt;Languages: French (Native), English (Fluent), Spanish (Beginner).&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>The Finer Points of Sausage Dogs</title>
-      <link>https://louisedemoor.github.io/website/papers/paper2/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>https://louisedemoor.github.io/website/papers/paper2/</guid>
-      <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004.</description>
-    </item>
-    <item>
-      <title>Lectures at the Villa of Reduced Circumstances</title>
-      <link>https://louisedemoor.github.io/website/courses/course1/</link>
-      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>https://louisedemoor.github.io/website/courses/course1/</guid>
-      <description>This graduate course presents classical results in Romance philology.</description>
-    </item>
-    <item>
-      <title>Portugese Irregular Verbs</title>
-      <link>https://louisedemoor.github.io/website/books/book1/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://louisedemoor.github.io/website/books/book1/</guid>
-      <description>This book discusses Portugese irregular verbs in great details.</description>
-    </item>
-    <item>
-      <title>Profanity in Early Irish</title>
-      <link>https://louisedemoor.github.io/website/courses/course2/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>https://louisedemoor.github.io/website/courses/course2/</guid>
-      <description>This undergraduate course discusses profanity in Early Irish.</description>
+      <title>Teaching</title>
+      <link>http://localhost:1414/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1414/courses/</guid>
+      <description>Teaching experience.</description>
     </item>
   </channel>
 </rss>

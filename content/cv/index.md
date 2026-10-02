@@ -3,7 +3,7 @@ title: "Resume"
 hidemeta: true
 description: ""
 ---
-+ [Download CV](/website/Academic_Resume.pdf)
++ [Download CV](../Academic_Resume.pdf)
 ##### EDUCATION
 + Ph.D., Economics, CREST, 2028 (Expected)  
   *Specializing in market design.*  
